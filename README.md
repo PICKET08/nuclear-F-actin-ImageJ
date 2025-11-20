@@ -15,3 +15,5 @@ This plugin can be used in either [ImageJ1](https://imagej.nih.gov/ij), [ImageJ2
 ## Setup
 1. Download the [plugin JAR file](), copy the file into the ImageJ plugin folder.
 1. Download the [model package file](), unzip and place the model package into the ImageJ root directory:
+
+# Video tutorials
