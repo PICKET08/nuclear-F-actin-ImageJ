@@ -72,8 +72,8 @@ public class F_actin implements PlugInFilter, MouseListener, MouseMotionListener
   private Roi originalRoi;
   private boolean originalMagnifierState;
   
-  //private String baseModelFolder = String.valueOf(IJ.getDirectory("imagej")) + File.separator;
-  private String baseModelFolder = "C:/Users/Administrator/Desktop/ImageJ/";
+  private String baseModelFolder = String.valueOf(IJ.getDirectory("imagej")) + File.separator;
+  // private String baseModelFolder = "C:/Users/Administrator/Desktop/ImageJ/";
   
   public int setup(String arg, ImagePlus imp) {
     if (arg.equals("about"))
@@ -1046,3 +1046,4 @@ public class F_actin implements PlugInFilter, MouseListener, MouseMotionListener
   }
   
 }
+
