@@ -26,7 +26,7 @@ public class CsvLogger {
   }
   
   public void writeSegData(String name, List<? extends Number> values) throws IOException {
-	    DecimalFormat df = new DecimalFormat("#.#####"); // 控制小数位数
+	    DecimalFormat df = new DecimalFormat("#.#####"); 
 	    StringBuilder line = new StringBuilder();
 	    line.append(name);
 	    for (Number val : values) {
@@ -60,3 +60,4 @@ public class CsvLogger {
     return this.csvFile.getAbsolutePath();
   }
 }
+
