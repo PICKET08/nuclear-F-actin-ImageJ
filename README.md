@@ -12,7 +12,7 @@ This plugin can be used in either [ImageJ1](https://imagej.nih.gov/ij), [ImageJ2
 - macOS
 
 ## Installation
-1. Download the [plugin JAR file](), place the file into the ImageJ plugin folder.
+1. Download the [plugin JAR file](https://github.com/PICKET08/nuclear-F-actin-ImageJ/releases/tag/v0.1.0), place the file into the ImageJ plugin folder.
 1. Download the [model package file](https://github.com/PICKET08/nuclear-F-actin-Napari/releases/tag/v0), unzip and place the model package into the ImageJ root directory:
 
 ## Video tutorials
